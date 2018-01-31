@@ -1,0 +1,20 @@
+{
+  "name": "thesis-api",
+  "version": "1.0.0",
+  "description": "Rest-server, socket server, and all the DBs for thesis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidd232/thesis-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidd232/thesis-api/issues"
+  },
+  "homepage": "https://github.com/davidd232/thesis-api#readme"
+}
